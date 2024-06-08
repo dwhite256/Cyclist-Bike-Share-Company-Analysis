@@ -1,4 +1,5 @@
-# [Cyclistic Bike-Share Member Conversion Strategies]
+# Cyclistic Bike-Share Member Conversion Strategies
+![intro-page](https://github.com/dwhite256/Cyclist-Bike-Share-Company-Analysis/assets/170587320/0241e714-4ca7-47e6-bd96-3226289cd438)
 ## DESCRIPTION OF THE BUSINESS PROBLEM
 The goal of this project is to find the ways that annual members and casual riders use Cyclistic bikes differently in order to convert more customers into annual members.
 
