@@ -20,6 +20,9 @@ The data shows that in December both casual riders and annual members ride their
 * The ‘start_time’ and ‘end_time’ columns were created by subtracting the date from the bike times in columns C and D.
 * The ‘ride_length’ column was created by subtracting the times in the ‘start_time’ columns from the times in the ‘end_time’.
 * The ‘day_of_week’ column was created by using the WEEKDAY function on the data on dates in column C.
+
+LINK TO GOOGLE SHEET FOR PROJECT DATA: ![](https://docs.google.com/spreadsheets/d/1oqYR3ssy7hGIZjTxAukZPlfjjMGrT5ns2i82HXrCt8w/edit?usp=sharing)
+
 #### - Raw March data
 ![raw-cyclist-data-march](https://github.com/dwhite256/Cyclist-Bike-Share-Company-Analysis/assets/170587320/b8571f3e-85e9-4892-a397-9e09bf0e7335)
 #### - Cleaned March data
